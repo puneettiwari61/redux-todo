@@ -1,0 +1,30 @@
+body {
+  font-size: 30px;
+}
+
+#input {
+  width: 30%;
+  padding: 10px;
+  font-size: 25px;
+}
+
+.li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.top {
+  text-align: center;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.active {
+  text-decoration: none;
+}
